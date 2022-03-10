@@ -26,7 +26,7 @@ This product is under the Apache License 2.0.
 
 
 ## Usage
-Bookmark this page
+Bookmark this page https://desolate-forest-42762.herokuapp.com/
 
 ## Contributing
 Feel free to fork this project and make changes for review
