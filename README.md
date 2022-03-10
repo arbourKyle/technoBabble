@@ -19,6 +19,8 @@
 ## Description
 This a blog to share your thoughts on the subject of technology
 
+![](public/img/existingPosts.jpg)
+
 ## License
 This product is under the Apache License 2.0.
 
